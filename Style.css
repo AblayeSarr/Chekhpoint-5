@@ -1,0 +1,347 @@
+.logo{
+    height: 30px;
+    padding: 2px;
+    margin-left: 200px;
+}
+a{
+    display: contents;
+    margin-left: 70%;
+    align-items: flex-end;
+}
+a:hover{
+    color: rgb(0,204,177);
+}
+.lien{
+    margin-left: 70%;
+    margin-top: -2%;
+}
+.logoheader{
+display: flex;
+justify-content: center;
+margin-top: 2cm;
+}
+.test{
+    text-align: center;
+    color: rgb(0,191,165);
+    font-size: xx-large;
+    font-family: inherit;
+    margin: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    font-size: larger;
+
+}
+p1{
+    margin-left: 140px;
+    margin: 70px;
+}
+p2{
+    margin-left: 120px;
+    align-content: flex-end;
+    margin: 70px;
+}
+.frame
+{
+    display: flex;
+    justify-content: center;
+}
+.frame1{
+     height: 350px;
+    width: 300px;
+    background-color: rgb(0,204,177);
+    border-radius: 10px;
+    margin-left: 180px;
+}
+.frame2{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(61,131,223);
+    border-radius: 10px;
+}
+.frame3{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(27,39,52);
+    border-radius: 10px;
+    margin-right: 180px;
+}
+.frame{
+    display: flex;
+    justify-content: space-between;
+}
+.photo{
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+    margin-top: 5%;
+}
+.title{
+    text-align: start;
+    color: white;
+    margin-left: 20px;
+}
+.country{
+    margin-top: 25%;
+    margin-left: 20px;
+}
+.after{
+    margin-top: 35%;
+    margin-left: 20px;
+}
+.for{
+    margin-top: 30%;
+    margin-left: 20px;
+}
+.free{
+    margin-left: 20px;
+}
+.paragraph{
+    margin-left: 175px;
+    margin-top: 1cm;
+    font-size: large;
+    color: rgb(66,183,155);
+}
+.Ablaye{
+    display: flex;
+}
+.Khardiata{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.met{
+    margin-left: 280px;
+    margin-top: -5%;
+}
+.Sonko{
+    margin-left: 460px;
+margin-top: -5%;
+}
+.Lilkha{
+    margin-left: 610px;
+    margin-top: -5%;
+}
+.brands{
+    margin-left: 10px;
+    margin-top: 2%;
+}
+.Metza{
+    margin-left: 100px;
+    margin-top: 2%;
+}
+.Fatima{
+    margin-left: 270px;
+    margin-top: -3%;
+}
+.M_Ka{
+    margin-left: 430px;
+    margin-top: -5%;
+}
+.Sala{
+    margin-left: 500px;
+    margin-top: -6%;
+}
+.Alima{
+    margin-left: 655px;
+    margin-top: -4%;
+}
+.stats_header{
+    margin-left: 170px;
+    margin-top: 2cm;
+}
+.mars{
+    color: rgb(103,189,163);
+    font-size: xx-large;
+}
+.avril{
+    background-color: white;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 750px;
+    margin-top: -38%;
+}
+.large{
+    background-color: rgb(214, 247, 247);
+    margin-top: 2%;
+}
+.marge{
+    margin-top: 20px;
+    margin-left: 100px;
+    color: rgb(33,179,155);
+}
+.titre{
+    text-align: center;
+    color: rgb(33,179,155);
+}
+.part{
+    text-align: center;
+}
+.may{
+    background-color: white;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 990px;
+    margin-top: -20%;
+}
+.back{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.june{
+    text-align: center;
+    color: rgb(33,179,155);
+}
+.wait{
+    text-align: center;
+}
+.last{
+    background-color: white;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 750px;
+    margin-top: 1cm;
+}
+.friend{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.time{
+    text-align: center;
+    color: rgb(33,179,155);
+}
+.some{
+    text-align: center;
+}
+.what{
+    background-color: white;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 990px;
+    margin-top: -20%;
+}
+.sometime{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.morning{
+    text-align: center;
+    color:  rgb(33,179,155);
+}
+.most{
+    text-align: center;
+}
+.soon{
+    height: 350px;
+    width: 555px;
+    margin-right: 20%;
+}
+.next{
+    text-align: center;
+    color:  rgb(33,179,155);
+    font-size: xx-large;
+    margin-top: 2cm;
+}
+.bobo{
+    text-align: center;
+}
+.must{
+    margin-left: 80px;
+}
+.better{
+    display: flex;
+    justify-content: center;
+    margin-top: 2cm;
+}
+.once{
+    color: rgb(116,116,116);
+    margin-left: 80px;
+}
+.btn{
+    background-color: rgb(61,131,223);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 4px;
+    margin-left: 60px;
+    font-size: small;
+}
+.than{
+    border-radius: 5px;
+}
+.merci{
+border-radius: 5px;
+}
+.go{
+    display: flex;
+    justify-content: center;
+    margin-top: 2cm;
+}
+.hira{
+    margin-left: 80px;
+    color: rgb(116,116,116);
+}
+.aller{
+    margin-left: 60px;
+    background-color:rgb(61,131,223);
+    border-radius: 5px;
+    color: white;
+    padding: 4px;
+    border: none;
+    font-size: small;
+}
+.monday{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 2cm;
+}
+.small{
+    margin-left: 80px;
+    color: rgb(116,116,116);
+}
+.tree{
+    margin-left: 65px;
+    border-radius: 5px;
+    background-color: rgb(61,131,223);
+    color: white;
+    padding: 4px;
+    border: none;
+    font-size: small;
+}
+.ready{
+    border-radius: 4px;
+}
+.elder{
+    text-align: center;
+    background-color: rgb(61,131,223);
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: smaller;
+}
+.older{
+    text-align: center;
+    margin-top: 2cm;
+    font-style: normal;
+    font-size: xx-large;
+    color: rgb(116,116,116);
+}
+.made{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+    margin-top: 2cm;
+}
+.ball{
+    color: rgb(116,116,116);
+}
+.papi:hover{
+    color: rgb(61,131,223);
+}
